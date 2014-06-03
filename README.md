@@ -13,8 +13,9 @@ Requirements:
   pyyaml.
   
   
-  Installation
-  ============
+Installation
+============
+  
   1. Install skype on the the machine where you will execute Father skype bot from
   2. Install modules from requirements paragraph (TOD: make dependencies resolving script)
   3. Create new folder and clone skype bot files from the (TODO: make installer: py or exe)
