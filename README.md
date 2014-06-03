@@ -1,0 +1,4 @@
+FatherSkypeBot
+==============
+
+Father skype bot
