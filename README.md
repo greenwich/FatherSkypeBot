@@ -7,10 +7,10 @@ Simple python skype bot.
 
 Requirements:
 =============
-  python 2.7 x86 installed,
-  pywin32,
-  skype4py module,
-  pyyaml.
+  * python 2.7 x86 installed
+  * pywin32
+  * skype4py module
+  * pyyaml
   
   
 Installation
