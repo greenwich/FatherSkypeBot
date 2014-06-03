@@ -1,7 +1,7 @@
 FatherSkypeBot
 ==============
 
-Father skype bot
+Father skype bot - initially used for fun and job duties. Shared to github because of people requests.
 
 Simple python skype bot.
 
@@ -25,10 +25,11 @@ Installation
 
 TODO
 ====
-1. Interactive menu to allow user to select the chat to join
-2. Dependencies resolution script
-3. Installer: py or exe
-4. Add data mining plugin (for example: detect most popular topics, persons and words). Try to define the chat topic and predict it
-5. Simple linguistic analysis ....
-6. blah blah
+1. Add doctest tests
+2. Interactive menu to allow user to select the chat to join
+3. Dependencies resolution script
+4. Installer: py or exe
+5. Add data mining plugin (for example: detect most popular topics, persons and words). Try to define the chat topic and predict it
+6. Simple linguistic analysis ....
+7. blah blah
   
