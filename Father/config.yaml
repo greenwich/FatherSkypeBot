@@ -1,0 +1,11 @@
+﻿administration:
+ admin: alex_ieshin
+ #chat_id: '#mrbarbozza/$alexander_v_khomenko;963b8f9983cd99c8'
+ chat_id: '#alex_ieshin/$father.no_more;c5e582de8bbb5d21'
+
+plugins:
+ RandomAnswerPlugin:
+   wisdoms:
+    - One random phrase
+    - Second random phrase
+    - Third random phrase
